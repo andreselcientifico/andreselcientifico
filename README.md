@@ -17,12 +17,15 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
- 
+
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreselcientifico&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreselcientifico&langs_count=10&layout=compact&theme=chartreuse-dark" alt="andreselcientifico" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andreselcientifico&show_icons=true&locale=en&theme=chartreuse-dark" alt="andreselcientifico" width="410"/>
+
+<p>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreselcientifico&show_icons=true&theme=chartreuse-dark" alt="andreselcientifico" width="410"/>
 </p>
+
 
 <br><br><br><br><br><br><br><br>
 
