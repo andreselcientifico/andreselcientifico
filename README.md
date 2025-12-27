@@ -19,11 +19,11 @@
 </p>
 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreselcientifico&langs_count=10&layout=compact&theme=chartreuse-dark" alt="andreselcientifico" />
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreselcientifico&langs_count=10&layout=compact&theme=chartreuse-dark" alt="andreselcientifico" />
 </p>
 
 <p>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreselcientifico&show_icons=true&theme=chartreuse-dark" alt="andreselcientifico" width="410"/>
+ <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreselcientifico&show_icons=true&theme=chartreuse-dark" alt="andreselcientifico" width="410"/>
 </p>
 
 
